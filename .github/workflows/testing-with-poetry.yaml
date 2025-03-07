@@ -43,11 +43,11 @@ jobs:
       #----------------------------------------------
       # install your root project, if required
       #----------------------------------------------
-      - name: Install project
-        run: poetry install --no-interaction
-      #----------------------------------------------
-      #              run test suite
-      #----------------------------------------------
+      #      - name: Install project
+      #        run: poetry install --no-interaction
+      #      #----------------------------------------------
+      #      #              run test suite
+      #      #----------------------------------------------
       - name: Run tests
         run: |
           source .venv/bin/activate
