@@ -8,7 +8,7 @@ class Person:
         self.inn: uuid.UUID = uuid.uuid4()
 
     def __str__(self):
-        return f'<Person {self.name} - {self.inn}>'
+        return f"<Person {self.name} - {self.inn}>"
 
 
 class BankAccount:

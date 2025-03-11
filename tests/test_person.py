@@ -1,4 +1,3 @@
-
 class TestPerson:
     def test_new_person(self, person):
         assert person.inn

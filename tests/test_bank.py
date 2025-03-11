@@ -1,4 +1,3 @@
-
 class TestBank:
     def test_new_bank(self, bank):
         assert bank.name
