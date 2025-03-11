@@ -1,6 +1,6 @@
 import pytest
 
-from utils import add_two_numbers
+from utils.utils import add_two_numbers
 
 
 class TestAddTwoNumbers:
