@@ -13,6 +13,11 @@ flake8 = "^7.1.2"
 isort = "^6.0.1"
 black = "^25.1.0"
 passlib = {extras = ["bcrypt"], version = "^1.7.4"}
+locust = "^2.33.2"
+pyotp = "^2.9.0"
+qrcode = "^8.0"
+pillow = "^11.1.0"
+pyjwt = "^2.10.1"
 
 
 [build-system]
