@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "25022025group"
+version = "0.1.0"
+description = "my project"
+authors = ["vasylkartychak <w.i.k.mailua@gmail.com>"]
+license = "MIT"
+readme = "README.md"
